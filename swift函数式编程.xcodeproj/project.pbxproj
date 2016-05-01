@@ -15,6 +15,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4ECE9A571CD5D8F0006BA853 /* FunctionalProgramming_2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = FunctionalProgramming_2.playground; sourceTree = "<group>"; };
+		4ECE9A581CD5D920006BA853 /* FunctionalProgramming_3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = FunctionalProgramming_3.playground; sourceTree = "<group>"; };
 		4EF674691CCE565D007E132F /* swift函数式编程.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "swift函数式编程.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4EF6746C1CCE565D007E132F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4EF6746E1CCE565D007E132F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +58,8 @@
 			isa = PBXGroup;
 			children = (
 				4EF6747E1CCE5797007E132F /* FunctionalProgramming_1.playground */,
+				4ECE9A571CD5D8F0006BA853 /* FunctionalProgramming_2.playground */,
+				4ECE9A581CD5D920006BA853 /* FunctionalProgramming_3.playground */,
 				4EF6746C1CCE565D007E132F /* AppDelegate.swift */,
 				4EF6746E1CCE565D007E132F /* ViewController.swift */,
 				4EF674701CCE565D007E132F /* Main.storyboard */,
@@ -290,6 +294,7 @@
 				4EF6747D1CCE565D007E132F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
